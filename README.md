@@ -4,7 +4,7 @@ The Advent of CTF is a yearly CTF competition held in December.
 
 It features 24 challenges that range from easy to hard.
 
-The competition is created and curated by [Arjen Wiersma](https://www.arjenwiersma.nl). Most challenges are original works, some other challenges were based on challenges seen in other CTF challenges that highlighted extraordinary fun and challenging topics.
+The competition is created and curated by [Arjen Wiersma](https://arjenwiersma.nl). Most challenges are original works, some other challenges were based on challenges seen in other CTF challenges that highlighted extraordinary fun and challenging topics.
 
 ## Edition 2020
 
